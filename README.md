@@ -5,3 +5,5 @@ Hello GitMaster
 this is my tutorial
 
 restart in Okt
+
+zip download
